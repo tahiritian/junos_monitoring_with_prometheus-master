@@ -1,0 +1,11 @@
+{
+    "host": "172.30.52.152",
+    "port": 50051,
+    "user": "lab",
+    "password": "m0naco",
+    "cid": "my-client-id",
+    "paths": [{
+        "path": "/interfaces",
+        "freq": 2000
+    }]
+}
